@@ -1,0 +1,1 @@
+simple python neural network construction (with predefined weights)
